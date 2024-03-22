@@ -22,7 +22,7 @@ Para algunas unidades de propuesta de distribución determinadas, el sistema deb
 -a Consideraciones de rendimiento.
 -b Requisitos que necesitarías del API.
 
-- a: En un sistema de código bajo, es crucial optimizar el rendimiento y la eficiencia, especialmente cuando se trata de grandes volúmenes de datos como un JSON de 20 GB. Algunas técnicas para mejorar el rendimiento incluyen:
+- a: En un sistema de low code, es crucial optimizar el rendimiento y la eficiencia, especialmente cuando se trata de grandes volúmenes de datos como un JSON de 20 GB. Algunas técnicas para mejorar el rendimiento incluyen:
 Procesamiento por lotes: divida el archivo en lotes más pequeños para su procesamiento en paralelo. Por ejemplo, dividir el archivo en varios archivos de menos de 1 GB y procesarlos en paralelo.
 Lectura en streaming: en lugar de cargar el archivo completo en la memoria, lea el archivo en un flujo, procesándolo línea por línea o en fragmentos más pequeños. Esto reducirá el consumo de memoria.
 Índices y almacenamiento en caché: utilice índices para acelerar las operaciones de búsqueda y almacenamiento en caché para almacenar temporalmente los resultados a los que se accede con frecuencia.
