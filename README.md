@@ -47,6 +47,11 @@ Usar componentes gráficos como "Cards" o "Tiles" para representar cada zona de 
 Al hacer clic en un componente, muestra una ventana emergente o modal con detalles del stock disponible y las acciones necesarias para cumplir con el pedido.
 
 
+![codigoController](https://github.com/Rodrigues-cloud/API_Inditex/assets/60243587/d64b0904-a950-43c8-963b-4b3722711a3c)
+![tabela-stock](https://github.com/Rodrigues-cloud/API_Inditex/assets/60243587/39d70f5d-983f-4b95-9451-c531468a91be)
+![Tabela-prereparto](https://github.com/Rodrigues-cloud/API_Inditex/assets/60243587/260dad1d-f342-4e95-8b17-62c50b0108cd)
+![tabela-peticiones](https://github.com/Rodrigues-cloud/API_Inditex/assets/60243587/83d7d39c-6e8e-4f67-818d-4b3655e33c24)
+
 
 # Autor
 Uesley Rodrigues da Silva
